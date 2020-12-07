@@ -47,7 +47,7 @@
 **[ ИНСТРУМЕНТЫ РАЗРАБОТКИ ]**
 
 Python 3, Django - для разработки back-end.
-HTML, CSS - для разработки front-end.
+HTML, CSS, JavaScript - для разработки front-end.
 
 **[ ЭТАПЫ РАЗРАБОТКИ ]**
 
